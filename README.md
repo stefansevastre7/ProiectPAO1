@@ -1,5 +1,5 @@
-ProiectPAO1
-Classes
+# ProiectPAO1
+# Classes
     • Person (abstract)
     • Employee (abstract) extends Person
     • Patient
@@ -13,7 +13,7 @@ Classes
     • Appointment
     • Gestiune - used to implement all methods
     • Main - used to test all methods
-Methods.
+# Methods.
     • public void add_doctor(Doctor doctor) adds a new doctor
     • public void show_doctors() prints all doctors who work at the clinic
     • public void show_doctors_speciality (String speciality) prints all doctors working at the clinic and having speciality "speciality"
